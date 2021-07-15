@@ -1,0 +1,16 @@
+/nbproject
+/node_modules
+/frontend/node_modules
+/frontend/public
+/public/storage
+/storage/*.key
+/vendor
+.env
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+supervisord.log
+supervisord.pid

@@ -1,0 +1,21 @@
+export default {
+  // Endpoints
+  loginEndpoint: '/api/auth/login',
+  registerEndpoint: '/api/auth/register',
+  // usersEndpoint: '/api/v1/users',
+  // userEndpoint: '/api/v1/user',
+  // userTokenEndpoint: '/api/v1/user-token',
+  // userParentEndpoint: '/api/v1/user-parent',
+  userProfileEndpoint: '/api/v1/user-profile',
+  // userAddressEndpoint: '/api/v1/user-address',
+  // userPasswordEndpoint: '/api/v1/user-password',
+  // userPreferencesEndpoint: '/api/v1/user-preferences',
+  // userEmailVerificationEndpoint: '/api/v1/user-verify-email',
+  // courierPreferencesEndpoint: '/api/v1/user-couriers',
+  // locationPreferencesEndpoint: '/api/v1/user-location',
+  // labelPreferencesEndpoint: '/api/v1/user-labels',
+  // userSearchEndpoint: '/api/v1/user-search',
+  // imitateUserEndpoint: '/api/v1/imitate-user',
+  // imitateUserResetEndpoint: '/api/v1/imitate-user-reset',
+  // toggleUserStatusEndpoint: '/api/v1/user-status-toggle',
+}

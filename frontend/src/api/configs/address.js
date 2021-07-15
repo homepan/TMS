@@ -1,0 +1,22 @@
+export default {
+  tokenType: 'Bearer',
+  refreshEndpoint: '/jwt/refresh-token',
+  storageTokenKeyName: 'accessToken',
+  storageRefreshTokenKeyName: 'refreshToken',
+  // Endpoints
+  addressesEndpoint: '/api/v1/addresses',
+  addressEndpoint: '/api/v1/address',
+  addressStatusEndpoint: '/api/v1/address-status',
+  addressesStatusEndpoint: '/api/v1/addresses-status',
+  addressesGroupEndpoint: '/api/v1/addresses-group',
+  addressGroupsEndpoint: '/api/v1/address-groups',
+  addressGroupEndpoint: '/api/v1/address-group',
+  groupAddressesEndpoint: '/api/v1/group-addresses',
+  addressImportHeaderEndpoint: '/api/v1/address-import-headers',
+  addressImportVerifyEndpoint: '/api/v1/import-verify',
+  addressImportEndpoint: '/api/v1/address-import',
+  contactSearchEndpoint: '/api/v1/contact',
+  validateLocationEndpoint: '/api/v1/validate-location',
+  addressCleanUpEndpoint: '/api/v1/address-clean-up',
+  selectAddressesEndpoint: '/api/v1/select-addresses',
+}
